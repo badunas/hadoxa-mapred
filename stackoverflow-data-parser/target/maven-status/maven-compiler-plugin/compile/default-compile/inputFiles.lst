@@ -1,0 +1,15 @@
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/TagParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/PostLinkParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/UserParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/PostLink.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/Vote.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/User.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/PostParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/Tag.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/Badge.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/Comment.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/BadgeParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/VoteParser.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/pojo/Post.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/common/XmlInputFormat.java
+/Users/badun/Projects/hadoxa/stackoverflow-data-parser/src/main/java/com/hadoxa/so/parser/CommentParser.java

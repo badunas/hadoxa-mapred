@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.mrunit:mrunit:hadoop1:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.mrunit/mrunit/1.1.0/a5fe04c05bd16deec70fd3256119f8e3f05ccb65/mrunit-1.1.0-hadoop1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.mrunit/mrunit/1.1.0/c68546895b3e9b6db94b69e58636ebf1259d7f7e/mrunit-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

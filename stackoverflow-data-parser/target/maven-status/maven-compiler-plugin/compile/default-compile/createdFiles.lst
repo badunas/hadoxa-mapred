@@ -1,0 +1,16 @@
+com/hadoxa/so/pojo/Post.class
+com/hadoxa/so/parser/PostLinkParser.class
+com/hadoxa/so/pojo/Badge.class
+com/hadoxa/so/parser/TagParser.class
+com/hadoxa/so/parser/PostParser.class
+com/hadoxa/so/parser/VoteParser.class
+com/hadoxa/so/parser/common/XmlInputFormat.class
+com/hadoxa/so/parser/common/XmlInputFormat$XmlRecordReader.class
+com/hadoxa/so/pojo/PostLink.class
+com/hadoxa/so/pojo/Vote.class
+com/hadoxa/so/parser/CommentParser.class
+com/hadoxa/so/parser/UserParser.class
+com/hadoxa/so/pojo/User.class
+com/hadoxa/so/pojo/Comment.class
+com/hadoxa/so/pojo/Tag.class
+com/hadoxa/so/parser/BadgeParser.class

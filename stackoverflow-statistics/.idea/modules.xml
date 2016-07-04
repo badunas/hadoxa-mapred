@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackoverflow-statistics.iml" filepath="$PROJECT_DIR$/.idea/modules/stackoverflow-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackoverflow-statistics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stackoverflow-statistics_main.iml" group="stackoverflow-statistics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackoverflow-statistics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stackoverflow-statistics_test.iml" group="stackoverflow-statistics" />
+    </modules>
+  </component>
+</project>
